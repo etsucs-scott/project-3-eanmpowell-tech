@@ -1,6 +1,6 @@
 using Xunit;
 using Minesweeper.Core;
-
+//The xunit tests for ensuring everything runs correctly
 public class GameTests
 {
     private const int Seed = 12345;

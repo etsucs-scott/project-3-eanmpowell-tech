@@ -1,4 +1,5 @@
 ﻿namespace Minesweeper.Core
+//Shows the info of each tile, including whether or not its a bomb, flagged, revealed, or how many bombs are next to it.
 {
     public class Tile
     {

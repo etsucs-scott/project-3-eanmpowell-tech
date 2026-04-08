@@ -1,4 +1,5 @@
 ﻿namespace Minesweeper.Core
+//The game itself, how everything works during a win/loss
 {
     public class Game
     {

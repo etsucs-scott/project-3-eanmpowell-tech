@@ -1,4 +1,6 @@
-﻿namespace Minesweeper.Core
+﻿using System.Diagnostics.Tracing;
+//How the highscore is created, and shows different scores based on the field size
+namespace Minesweeper.Core
 {
     public class HighScore
     {
@@ -9,3 +11,4 @@
         public string Timestamp { get; set; }
     }
 }
+//Uses board size, time spent, amount of moves, and seed to calculate and display score

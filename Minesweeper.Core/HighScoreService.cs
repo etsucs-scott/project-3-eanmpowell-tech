@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-
+//This is what shows different High Scores
 namespace Minesweeper.Core
 {
     public class HighScoreService

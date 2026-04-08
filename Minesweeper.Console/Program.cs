@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using Minesweeper.Core;
+//main program, what holds everything together as it all runs.
 
 class Program
 {

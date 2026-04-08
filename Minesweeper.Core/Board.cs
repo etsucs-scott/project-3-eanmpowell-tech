@@ -1,4 +1,5 @@
 ﻿using System;
+//our map, or the game where we make it
 
 namespace Minesweeper.Core
 {
